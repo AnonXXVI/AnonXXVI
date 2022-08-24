@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnonXXVI
-- 👀 I’m interested in C/C++ Programming, Python Development, Blockchain Technology and Networking in General
+- 👀 I’m interested in C/C++ Programming, Laravel Web Development,JSX,Python Development, Blockchain Technology and Networking(Routing and Switching)
 - 🌱 I’m currently learning Cisco Networking and Web Applications with React Native
 - 💞️ I’m looking to collaborate on Blockchain Technolgy
 - 📫 How to reach me ...
